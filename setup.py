@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(name='crypto-beancount',
       version='0.1',
-      description='The funniest joke in the world',
+      description='Convert your crypto account into a ledger via beancount.',
       url='https://github.com/scottmsilver/crypto-beancount',
       author='Scott M. Silver',
       author_email='scottmsilver@gmail.com',
