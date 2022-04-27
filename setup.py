@@ -11,6 +11,7 @@ setup(name='crypto-beancount',
       install_requires=[
           'ccxt',
           'python-dotenv',
-          'simplejson'
+          'simplejson',
+          'python-dateutil'
       ],
       zip_safe=False)
